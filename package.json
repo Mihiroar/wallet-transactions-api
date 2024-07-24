@@ -1,0 +1,17 @@
+{
+  "name": "wallet-transactions-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "uuid": "^10.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
